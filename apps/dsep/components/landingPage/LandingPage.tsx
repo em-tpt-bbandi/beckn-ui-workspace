@@ -7,7 +7,7 @@ import { Image } from '@chakra-ui/react'
 import { FaSearch } from 'react-icons/fa'
 import Router from 'next/router'
 import { useState } from 'react'
-import { Search } from '@beckn-ui/common'
+import { Search } from '@beckn-ui/becknified-components'
 
 const LandingPage: React.FC = () => {
   const { t } = useLanguage()
