@@ -28,6 +28,10 @@
       "name": "Playground",
       "path": "../apps/playground"
     },
+    {
+      "name":"Uei",
+      "path": "../apps/uei"
+    }
   ],
 	"settings": {
     "files.exclude": {
